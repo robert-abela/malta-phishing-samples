@@ -1,0 +1,73 @@
+Delivered-To: xxxxxx.xxxxxx@um.edu.mt
+Received: by 2002:a05:6918:5612:b029:2d:925f:b804 with SMTP id a18csp1619157yso;
+        Fri, 25 Jun 2021 04:56:28 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJwnr9pJe6xWLoncniFvQBeQrhrCSYXu4yKuy6p9ywnbuIEDXSUagdewnA0DEkC8TfM2ffZR
+X-Received: by 2002:a1c:98c9:: with SMTP id a192mr10214645wme.66.1624622188107;
+        Fri, 25 Jun 2021 04:56:28 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1624622188; cv=none;
+        d=google.com; s=arc-20160816;
+        b=ByvRj8FFlwgqRC7w7vja/bDJqZKsKIc+URAwIUoYEr1NkKOq3omD6HsLLbDXp8Ikr3
+         zst5KepFEMcOCeBz4D3/aqVS9QHKFSU+5VE1XdFcC1+oRXdOlx9AU0aEOQ5AC6UTdHbQ
+         7fmgT0vQzoUwvT25g/yCyxUmvdHGPXRfKUBWi6hN+hFh74qesXwOvGcm9pecXXRI4uRh
+         QKeiO8ku1PBNfIupVTwn4T1j6+z6KAAovIltXxqJW53V2jJQo72Yolaq3giFF5n5bBAH
+         /okNv+IgVvD4T0/J809GFqA5+2wtm9C9Zgce4Qa+MnqwOsGwD9SlbYyxpO9kB2S2Ab3f
+         n+/w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=precedence:message-id:from:mime-version:subject:to:date;
+        bh=tzrJZY9NE6APR8SWYGSnwvwVC9fKxVjactZXxw6dQW8=;
+        b=Lx4NQRva2PlmNDSzDTpxAGp1pB72OFfV7qlFV28GgTzdIaKAHJL5zQJO69jw8ZPs94
+         zMaGZ87gAWxzslR+pZgksUU2tbzP6FgJYEo8mtYHshS8kKpyDmR5SW/S40Ve1CBt8ewP
+         iYWTm9MOpU5Qsn9t7WEXQmzbEBsR4sfSsaGMzQhqSng2N5xH3sUXI62OXOeuAr+R32sq
+         rKXBWt7KmbbIR5JpUKpXU83yYug4CLZ6kYNMDRbCG45q4ANNDYhnXs/mVbdk8NwrATap
+         0i3p1nIJ+oorVz3yokdhXHKeFRsHzQJR+ukR4AK9cLVMEAl1bW1ZlUAtHD+lXlDe8R+C
+         G79Q==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain um.edu.mt configured 193.188.46.220 as internal address) smtp.mailfrom=bounce@um.edu.mt
+Return-Path: <bounce@um.edu.mt>
+Received: from google.um.edu.mt ([193.188.46.220])
+        by mx.google.com with ESMTP id n64si6670123wme.158.2021.06.25.04.56.27
+        for <xxxxxx.xxxxxx@um.edu.mt>;
+        Fri, 25 Jun 2021 04:56:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain um.edu.mt configured 193.188.46.220 as internal address)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain um.edu.mt configured 193.188.46.220 as internal address) smtp.mailfrom=bounce@um.edu.mt
+Received: from mail-processor-googlewhite.um.edu.mt (root@localhost)
+	by google.um.edu.mt (3) with CSCMAIL id 15PBuRTi021684
+	for <xxxxxx@togoogle.um.edu.mt>; Fri, 25 Jun 2021 13:56:27 +0200
+Received: from mail-processor.um.edu.mt (root@localhost)
+	by karmnu.um.edu.mt (3) with CSCMAIL id 15PBkn6R020762
+	for <xxxxxx@forwarding.um.edu.mt>; Fri, 25 Jun 2021 13:46:49 +0200
+Date: Fri, 25 Jun 2021 13:46:49 +0200
+To: UM IT Service Desk <servicedesk.itservices@um.edu.mt>
+Subject: Reports of ransomware targeting UM users disguised as a request for collaboration in research
+MIME-Version: 1.0
+Content-Type: multipart/alternative;boundary="900973671721"
+From: UM IT Service Desk <servicedesk.itservices@um.edu.mt>
+X-CSC-AutoReply: dont-generate
+Message-ID: <guhijojhij-b@um.edu.mt>
+Precedence: bulk
+X-CSC-Loop: <xxxxxx>
+
+IT Services has received reports of an email purporting to be from a Professor at a Chinese University requesting participation in their research. The email requires a software download which is ransomware. We are including an extract from the phishing email at the end of this notification to help you identify it.
+
+Important: You should never download and run executables from unknown sources, please ask for advice when in doubt. This particular ransomware does not run automatically upon downloading to your computer. However, if you have executed the software you are advised to turn off your computer and contact IT Services for assistance. Note that corporate computers are protected against this.
+www.um.edu.mt/itservices/help
+
+Should you receive this email, please report it as 'phishing' through Gmail by clicking on the three vertical dots at the top right of the email.
+
+More information about ransomware:
+https://www.enisa.europa.eu/topics/csirts-in-europe/glossary/ransomware
+
+Computer security good practices:
+https://www.europol.europa.eu/activities-services/public-awareness-and-prevention-guides/make-your-home-cyber-safe-stronghold  
+
+IT Services
+University of Malta
+25-Jun-21
+===
+Ransomware email extract:
+
+I hope this email finds you well. I'm a distinguished professor at Shenzhen University, China. I'm doing a study on internet typology of information flow around the world. The method I'm using is to trace the paths of accessing certain websites. That is, what we obtain is the paths of websites traced from your computer. Consequently, there is no political sensitivity involved in this purely academic project. By integrating the paths of tracing a number of websites around the world, we are able to know how the Internet is connected among countries, and how Internet information flows inside and outside the country as well. This is a fascinating study. I believe the involvement of as many scholars as possible in this study will eventually make it be published in a high impact journal.
+
+--900973671721--
+

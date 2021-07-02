@@ -15,7 +15,7 @@ Data includes the following informaiton for each entry:
   - lookalike
   - other
   - unknown
-- motivation - delivery | change | lockout | financial | 2facode | win
+- motivation - delivery | change | lockout | financial | 2facode | win | opportunity
 - language - en | mt
 - personalised - yes | no
 - description - short description of phishing attempt
