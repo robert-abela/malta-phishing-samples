@@ -14,6 +14,7 @@ Data includes the following informaiton for each entry:
   - shortened (e.g. bit.ly)
   - lookalike
   - other
+  - unknown
 - motivation - delivery | change | lockout | financial
 - language - en | mt
 - personalised - yes | no
