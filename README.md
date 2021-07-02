@@ -1,6 +1,7 @@
 # malta-phishing-samples
 
-A collection of phishing samples targeting Maltese people, gathered from various sources and covering Q2 2021 onward. Data includes the following informaiton for each entry:
+A collection of phishing samples targeting Maltese people, gathered from various sources and covering Q2 2021 onward.  
+Data includes the following informaiton for each entry:
 - id - number inducating path to artefects, e.g. id=1 implies /artefects/1
 - type - sms | email
 - added - date added to repository
