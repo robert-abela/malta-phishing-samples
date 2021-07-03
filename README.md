@@ -19,7 +19,7 @@ Data includes the following informaiton for each entry:
   - other
   - unknown (not possible to confirm link from screenshot available) 
 - motivation - delivery | change | lockout | financial | 2facode | win | opportunity
-- language - en | mt
+- lang - en | mt
 - personalised - yes | no
 - description - short description of phishing attempt
 - entity - e.g. Bov or MaltaPost (or None)
