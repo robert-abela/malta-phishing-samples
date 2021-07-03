@@ -22,4 +22,5 @@ Data includes the following informaiton for each entry:
 - language - en | mt
 - personalised - yes | no
 - description - short description of phishing attempt
+- entity - e.g. Bov or MaltaPost (or None)
 - url - more details about the phishing attempt
