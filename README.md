@@ -8,7 +8,7 @@ Data includes the following informaiton for each entry:
   - email
   - social (facebook / twitter)
 - added - date added to repository
-- source 
+- source (first encountered)
   - Media (news portals)
   - MCAST (recieved directly by MCAST community member)
   - SocialMedia (e.g. shared of Facebook)
