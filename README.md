@@ -22,6 +22,6 @@ Data includes the following informaiton for each entry:
 - lang - en | mt
 - personalised - yes | no
 - description - short description of phishing attempt
-- entity - e.g. Bov or MaltaPost (or None)
+- entity - e.g. BOV or MaltaPost (or None)
 - moreinfo - more details about the phishing attempt
 - redirectsto - the URL used to host the phishing site
