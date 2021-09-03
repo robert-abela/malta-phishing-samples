@@ -25,3 +25,6 @@ Data includes the following informaiton for each entry:
 - entity - e.g. BOV or MaltaPost (or None)
 - moreinfo - more details about the phishing attempt
 - redirectsto - the URL used to host the phishing site
+
+Information sources (incomplete list):
+- https://www.facebook.com/salertmalta
