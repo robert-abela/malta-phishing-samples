@@ -3,7 +3,7 @@ In August 2021 Malta saw a sudden surge in clones news portals and blogs. These 
 | Original site | Clone | Date |
 |---|---|---|
 |manueldelia.com|emanueldelia.com|28/08/2021|
-|newsbook.com.mt|[newsbook.one](http://newsbook.one)|28/08/2021|
+|newsbook.com.mt|newsbook.one|28/08/2021|
 |repubblika.org|repubblika.net|28/08/2021|
 |lovinmalta.com|lovinmalt.com|29/08/2021|
 |netnews.com.mt|netnewsmt.com|29/08/2021|
