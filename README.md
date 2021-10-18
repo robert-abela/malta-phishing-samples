@@ -11,7 +11,7 @@ Data includes the following information for each entry:
 - source (first encountered). If multiple sources, the priority in the following list is adhered to:
   - Official (press release, e.g. Maltapost, Police)
   - Media (news portals)
-  - MCAST (recieved directly by MCAST community member)
+  - MCAST (received directly by MCAST community member)
   - SocialMedia (e.g. shared of Facebook)
 - link 
   - shortened (e.g. bit.ly)
