@@ -1,7 +1,7 @@
 # malta-phishing-samples
 
 A collection of phishing samples targeting Maltese people, gathered from various sources and covering Q2 2021 onward.  
-Data includes the following informaiton for each entry:
+Data includes the following information for each entry:
 - id - unique number indicating path to artefacts (e.g. id=1 implies /artefacts/001)
 - type - method of delivery 
   - msg (sms / whatsapp / viber)
