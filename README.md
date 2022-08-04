@@ -28,3 +28,6 @@ Data includes the following information for each entry:
 
 Information sources (incomplete list):
 - https://www.facebook.com/salertmalta
+
+News:
+- https://timesofmalta.com/articles/view/scammers-impersonating-police-identity-malta-officials.972527
